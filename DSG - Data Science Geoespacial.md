@@ -2,16 +2,11 @@
 
 ## Bibliografía
 Algunas fuentes de información.
-Geographic Data Science with Python - https://geographicdata.science/book/intro.html
-A Course on Geographic Data Science - https://darribas.org/gds_course/content/home.html
-Geographic Data Science for Public Policy - https://fcorowe.github.io/udd_gds_course/
-Introduction to Geographic Data Science - https://fcorowe.github.io/intro-gds/index.html
-Geospatial Data Science - https://github.com/Geospatial-Data-Science
-
-Curso UDD - https://fcorowe.github.io/udd_gds_course/
-Intro GDS - https://fcorowe.github.io/intro-gds/index.html
-GDS Course - https://darribas.org/gds_course/content/home.html
-GITHUB – https://github.com/Geospatial-Data-Science
+- Geographic Data Science with Python - https://geographicdata.science/book/intro.html
+- A Course on Geographic Data Science - https://darribas.org/gds_course/content/home.html
+- Geographic Data Science for Public Policy - https://fcorowe.github.io/udd_gds_course/
+- Introduction to Geographic Data Science - https://fcorowe.github.io/intro-gds/index.html
+- Geospatial Data Science - https://github.com/Geospatial-Data-Science
 
 
 ## Temas
