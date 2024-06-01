@@ -18,6 +18,9 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
     -   Instalar librerías
 4. Visualización de datos geográficos
 5. Puntos e indexación espacial
+    - H3 https://h3geo.org/
+    - H3 pandas https://h3-pandas.readthedocs.io/en/latest/
+    - Geohash https://pypi.org/project/Geohash/
 6. ESDA – Exploratory spatial Data Analysis
 7. Clasificación no supervisada - Clustering de datos espaciales
     -   Por cercanía geográfica
@@ -31,7 +34,9 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
 ### Chile
 **Biblioteca del congreso nacional de Chile**
 <p>Aquí es posible encontrar los polígonos de las regiones, provincias y comunas de Chile en formato .shp entre otros archivos.</p>
-<p>url: https://www.bcn.cl/siit/mapas_vectoriales</p>
+
+
+    https://www.bcn.cl/siit/mapas_vectoriales
 
 ### Internacional
 Airbnb - https://insideairbnb.com/get-the-data/
