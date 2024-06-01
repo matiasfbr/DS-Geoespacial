@@ -27,3 +27,12 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
     -   Location Planning (Sugerencia de ubicaciones por presencia de una característica)
 9. Buenas prácticas de visualización de datos geográficos
 
+## Datasets
+### Chile
+**Biblioteca del congreso nacional de Chile**
+Aquí es posible encontrar los polígonos de las regiones, provincias y comunas de Chile en formato .shp entre otros archivos.
+url: https://www.bcn.cl/siit/mapas_vectoriales
+
+### Internacional
+Airbnb - https://insideairbnb.com/get-the-data/
+
