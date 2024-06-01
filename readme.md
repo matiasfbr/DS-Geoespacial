@@ -1,4 +1,5 @@
 # Data Science Geoespacial
+Aqui será posible encontrar fuentes de información y código relacionado a data science geoespacial
 
 ## Bibliografía
 Algunas fuentes de información que me inspiraron a aprender sobre Data Science Geoespacial.
@@ -10,6 +11,7 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
 
 
 ## Temas
+Algunos temas que me interesa responder.
 
 1. ¿Qué es Data Science Geoespacial?
 2. Conociendo los datos geoespaciales
@@ -34,9 +36,7 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
 ### Chile
 **Biblioteca del congreso nacional de Chile**
 <p>Aquí es posible encontrar los polígonos de las regiones, provincias y comunas de Chile en formato .shp entre otros archivos.</p>
-
-
-    https://www.bcn.cl/siit/mapas_vectoriales
+- https://www.bcn.cl/siit/mapas_vectoriales
 
 ### Internacional
 Airbnb - https://insideairbnb.com/get-the-data/
