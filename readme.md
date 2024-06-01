@@ -30,8 +30,8 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
 ## Datasets
 ### Chile
 **Biblioteca del congreso nacional de Chile**
-Aquí es posible encontrar los polígonos de las regiones, provincias y comunas de Chile en formato .shp entre otros archivos.
-url: https://www.bcn.cl/siit/mapas_vectoriales
+<p>Aquí es posible encontrar los polígonos de las regiones, provincias y comunas de Chile en formato .shp entre otros archivos.</p>
+<p>url: https://www.bcn.cl/siit/mapas_vectoriales</p>
 
 ### Internacional
 Airbnb - https://insideairbnb.com/get-the-data/
