@@ -1,7 +1,7 @@
 # Data Science Geoespacial
 
 ## Bibliografía
-Algunas fuentes de información.
+Algunas fuentes de información que me inspiraron a aprender sobre Data Science Geoespacial.
 - Geographic Data Science with Python - https://geographicdata.science/book/intro.html
 - A Course on Geographic Data Science - https://darribas.org/gds_course/content/home.html
 - Geographic Data Science for Public Policy - https://fcorowe.github.io/udd_gds_course/
