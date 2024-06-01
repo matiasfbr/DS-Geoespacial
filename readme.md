@@ -16,7 +16,7 @@ Algunos temas que me interesa responder.
 1. ¿Qué es Data Science Geoespacial?
 2. Conociendo los datos geoespaciales
 3. Ambiente de trabajo
-    -   Usando miniconda para
+    -   Ambiente de trabajo en miniconda
     -   Instalar librerías
 4. Visualización de datos geográficos
 5. Puntos e indexación espacial
@@ -37,6 +37,9 @@ Algunos temas que me interesa responder.
 **Biblioteca del congreso nacional de Chile**
 <p>Aquí es posible encontrar los polígonos de las regiones, provincias y comunas de Chile en formato .shp entre otros archivos.</p>
 - https://www.bcn.cl/siit/mapas_vectoriales
+
+**INE**
+Datos censo 2017 - https://www.ine.gob.cl/herramientas/portal-de-mapas/geodatos-abiertos
 
 ### Internacional
 Airbnb - https://insideairbnb.com/get-the-data/
