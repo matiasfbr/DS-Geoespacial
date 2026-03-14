@@ -14,6 +14,7 @@ Algunas fuentes de información que me inspiraron a aprender sobre Data Science 
 - Kontur - https://www.kontur.io/portfolio/population-dataset/
 - The Biggest Myth in Spatial Econometrics - https://www.mdpi.com/2225-1146/2/4/217
 - IDE Chile - https://www.geoportal.cl/geoportal/catalog/35194/Catastros%20de%20Uso%20de%20Suelo%20y%20Vegetaci%C3%B3n
+- Google Open Buildings - https://blog.google/technology/research/open-buildings-ai-powered-maps-for-a-changing-world/
 
 ## Temas
 Algunos temas que me interesa responder.
